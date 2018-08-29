@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myApp</string>
+    <string name="demo_text">welcome to android bootcamp</string>
+</resources>
